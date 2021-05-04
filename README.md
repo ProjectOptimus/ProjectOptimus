@@ -53,5 +53,5 @@ Roadmap
 More
 ----
 
-- [About Us](./about)
-- [Core Values](./core-values)
+- [About Us](./docs/about)
+- [Core Values](./docs/core-values)
