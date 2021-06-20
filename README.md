@@ -3,9 +3,9 @@ OpenSourceCorp
 
 [ In Progress ]
 
-Welcome to Optimus, the free and open-source enterprise.
+Welcome to OpenSourceCorp, the free and open-source enterprise.
 
-Here at Optimus, we write the best code for the best software, deployed via the
+Here at OpenSourceCorp, we write the best code for the best software, deployed via the
 best CI/CD pipelines, onto the best infrastructure, secured via industry
 best-practices, and supported by the best documentation.
 
