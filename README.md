@@ -1,4 +1,4 @@
-Project Optimus
+OpenSourceCorp
 ===============
 
 [ In Progress ]
@@ -34,7 +34,7 @@ what if your team/company doesn't use Helm? Isn't *allowed* to use Helm?
 Which all begs the same question again -- ***how do you actually deploy it in
 real life?***
 
-This, and ever more questions, are what Project Optimus aims to provide. Real,
+This, and ever more questions, are what OpenSourceCorp aims to provide. Real,
 *holistic* code, real discussions, for enterprise solutions.
 
 ***All 100% in the open.***
