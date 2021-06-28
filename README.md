@@ -3,10 +3,10 @@ OpenSourceCorp
 
 [ In Progress ]
 
-Welcome to OpenSourceCorp, the free and open-source enterprise.
+Welcome to OpenSourceCorp -- the free and open-source enterprise.
 
-Here at OpenSourceCorp, we write the best code for the best software, deployed via the
-best CI/CD pipelines, onto the best infrastructure, secured via industry
+Here at OpenSourceCorp, we write the best code for the best software, deployed
+via the best CI/CD pipelines, onto the best infrastructure, secured via industry
 best-practices, and supported by the best documentation.
 
 We do this because we have developed a general frustration with ***how*** modern
@@ -16,7 +16,7 @@ enterprise ecosystem. There are plenty of tutorials and "getting started" guides
 for any number of tools or topics, but while many of these have supplements for
 their use in a larger ecosystem, they never feel like quite enough to document
 the holistic lifecycle of a use case. The most valuable learning material for
-*real* use cases happens behind company walls with propietary software -- where
+*real* use cases happens within company walls with propietary software -- where
 if you're not an employee, you don't get to learn.
 
 Take a secrets manager like [HashiCorp Vault](https://www.vaultproject.io/docs).
@@ -48,7 +48,7 @@ Roadmap
 - Contribution model
 - Sample code
 - Text-based Wiki solution, NOT a Github wiki
-- x
+- Target platform commentary -- "why not (strictly) Kubernetes/AWS/etc.", etc.
 
 More
 ----
