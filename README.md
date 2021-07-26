@@ -54,6 +54,13 @@ These, and ever more questions, are what OpenSourceCorp aims to provide answers
 
 ---
 
+Directory
+---------
+
+- [About Us](./docs/about.md)
+- [Core Values](./docs/core-values.md)
+- [Architecture diagram(s)](./docs/architecture.md)
+
 Some of our work
 ----------------
 
@@ -78,9 +85,3 @@ Roadmap
 - Sample code
 - Text-based Wiki solution, NOT a Github wiki
 - Target platform commentary -- "why not (strictly) Kubernetes/AWS/etc.", etc.
-
-More
-----
-
-- [About Us](./docs/about.md)
-- [Core Values](./docs/core-values.md)
