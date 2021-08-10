@@ -70,7 +70,7 @@ include:
 
 - [ymir](https://github.com/opensourcecorp/ymir), our machine-image-builder
   framework
-- [brah](https://github.com/opensourcecorp/brah), our deployment tooling for our
+- [gnar](https://github.com/opensourcecorp/gnar), our deployment tooling for our
   CI/CD system
 
 ---

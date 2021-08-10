@@ -10,5 +10,5 @@ implementations across OpenSourceCorp's core platforms.
 
 The current repository names of each component are found under the images
 describing them -- e.g. [Aether](https://github.com/opensourcecorp/aether),
-[Brah](https://github.com/opensourcecorp/brah),
+[Brah](https://github.com/opensourcecorp/gnar),
 [Ymir](https://github.com/opensourcecorp/ymir), etc.
